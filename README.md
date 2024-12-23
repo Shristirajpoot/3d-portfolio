@@ -76,7 +76,7 @@ Add screenshots or GIFs to showcase the project:
 
 ## 🔗 Live Demo
  
-![Demo Video](https://youtu.be/ctfOciMHP2o?si=-2QATxt8nZeK0dZ6)
+[Demo Video](https://youtu.be/ctfOciMHP2o?si=-2QATxt8nZeK0dZ6)
 ---
 
 
