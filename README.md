@@ -70,9 +70,9 @@ To run this project locally, ensure you have the following installed:
 ## 🖼️ Screenshots
 
 Add screenshots or GIFs to showcase the project:
+![Demo Image](images/img2.png)
+![Demo Image](images/img.png)
 
-![Screenshot of 3D Portfolio](./images/img2.jpg)
-![Another Screenshot](./images/img.jpg)
 
 ---
 
@@ -80,9 +80,8 @@ Add screenshots or GIFs to showcase the project:
 
 Check out the walkthrough of the 3D portfolio below:
 
-https://github.com/yourusername/3d-portfolio/images/demo-video.mp4
-
-![Video Walkthrough](https://github.com/Shristirajpoot/3d-portfolio/images/demo.mp4)
+https://github.com/Shristirajpoot/3d-portfolio/images/demo.mp4
+![Video Walkthrough](https://github.com/Shristirajpoot/3d-portfolio/demo.mp4)
 
 
 ---
