@@ -65,8 +65,6 @@ To run this project locally, ensure you have the following installed:
 └── .gitignore            # Ignored files in version control
 ```
 
----
-
 ## 🖼️ Screenshots
 
 Add screenshots or GIFs to showcase the project:
@@ -77,11 +75,10 @@ Add screenshots or GIFs to showcase the project:
 ---
 
 ## 🔗 Live Demo
-
-Check out the walkthrough of the 3D portfolio below:
-
-https://github.com/Shristirajpoot/3d-portfolio/images/demo.mp4
-![Video Walkthrough](https://github.com/Shristirajpoot/3d-portfolio/demo.mp4)
+ 
+![Watch Demo Video on YouTube](https://www.youtube.com/watch?v=ctfOciMHP2o)
+[Demo Video](https://youtu.be/ctfOciMHP2o?si=-2QATxt8nZeK0dZ6)
+---
 
 
 ---
