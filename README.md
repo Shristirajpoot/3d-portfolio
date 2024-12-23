@@ -80,8 +80,7 @@ Add screenshots or GIFs to showcase the project:
 
 Check out the walkthrough of the 3D portfolio below:
 
-https://github.com/yourusername/3d-portfolio/images/demo-video.mp4
-
+https://github.com/Shristirajpoot/3d-portfolio/images/demo-video.mp4
 ![Video Walkthrough](https://github.com/Shristirajpoot/3d-portfolio/images/demo.mp4)
 
 
