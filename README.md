@@ -1,5 +1,4 @@
-# 🌐 3D Portfolio Website – Showcasing Skills in Motion ✨
-
+# 🌐 3D Portfolio Website – Showcasing Skills in Motion 
 A cutting-edge 3D portfolio website. This project features 3D animations, audio integration, and dynamic content, providing an immersive user experience.
 
 
