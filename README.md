@@ -1,6 +1,11 @@
-# 3D Portfolio Website
+# 🌐 3D Portfolio Website – Showcasing Skills in Motion ✨
 
 A cutting-edge 3D portfolio website. This project features 3D animations, audio integration, and dynamic content, providing an immersive user experience.
+
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Shristirajpoot/3d-portfolio?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/Shristirajpoot/3d-portfolio?color=brightgreen)
+![Built with](https://img.shields.io/badge/Built%20with-HTML%2C%20CSS%2C%20JS%20%2B%203D%20Assets-blue)
 
 ---
 
@@ -72,11 +77,13 @@ Add screenshots or GIFs to showcase the project:
 ![Demo Image](images/img.png)
 
 
----
+## 🎥 Demo Video
 
-## 🔗 Live Demo
- 
-[Demo Video](https://youtu.be/ctfOciMHP2o?si=-2QATxt8nZeK0dZ6)
+📺 **Watch the walkthrough here:**  
+[![3D Portfolio - Demo Video](https://img.youtube.com/vi/ctfOciMHP2o/0.jpg)](https://youtu.be/ctfOciMHP2o)
+
+> 🔗 *Click the image or [watch on YouTube](https://youtu.be/ctfOciMHP2o)*
+
 ---
 
 
@@ -111,7 +118,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👩‍💻 Author
 
-- **Your Name**  
+- **Shristi Rajpoot**  
   [GitHub](https://github.com/Shristirajpoot) • [LinkedIn](https://linkedin.com/in/shristi-rajpoot-36774b281/)
 
 ---
